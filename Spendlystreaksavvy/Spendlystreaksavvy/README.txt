@@ -97,13 +97,13 @@ Automated testing and builds are integrated using GitHub Actions.
 
 ## 📦 APK Download
 
-➡ [Download APK here](GITHUB LINK)
+➡ https://github.com/VCWVL/prog7313-poe-Ntobekoprody/edit/main/Spendlystreaksavvy/Spendlystreaksavvy/README.txt
 
 ---
 
 ## 🎥 Demo Video
 
-📺 [Watch Demo](VIDEO LINK)
+📺 
 
 > Recorded directly from a mobile phone showing all app features with narration.
 
