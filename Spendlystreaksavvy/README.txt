@@ -40,7 +40,7 @@ Material 3 UI with full dark mode support
 📽 Demo Video & Video showing firebase works!
 Watch the full feature walk-through here (voice-over included):
 
-👉 📺 YouTube Demo – Spendly Final Submission
+👉 📺 YouTube Demo – Spendly Final Submission - https://youtube.com/shorts/ol_GIGQWygo
 👉 📺 YouTube Firebase showing
 🔗 Useful Links
 🔗 GitHub Repository
@@ -49,6 +49,7 @@ Watch the full feature walk-through here (voice-over included):
 🚀 How to Run the App
 Clone the repo:
 git clone: https://github.com/VCWVL/prog7313-poe-ST10396745.git
+https://github.com/VCWVL/prog7313-poe-Ntobekoprody/tree/main/Spendlystreaksavvy
 
 Open in Android Studio
 Run on a real Android device (required for Firebase and camera)
